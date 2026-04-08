@@ -1,5 +1,4 @@
 [build]
-  base = "frontenddevreactjs-bagus"
   command = "npm run build"
   publish = "build"
 
