@@ -21,6 +21,72 @@
       "photos": ["https://picsum.photos/seed/r2/400/300"],
       "location": { "address1": "456 Oak Ave", "city": "New York" },
       "review_count": 8
+    },
+    {
+      "id": "3",
+      "name": "Sunset Grill House",
+      "rating": 4.2,
+      "price": "$$",
+      "isOpen": true,
+      "categories": [{ "title": "American" }],
+      "photos": ["https://picsum.photos/seed/r3/400/300"],
+      "location": { "address1": "78 River Rd", "city": "Brooklyn" },
+      "review_count": 14
+    },
+    {
+      "id": "4",
+      "name": "Tokyo Bento Corner",
+      "rating": 4.7,
+      "price": "$",
+      "isOpen": true,
+      "categories": [{ "title": "Japanese" }],
+      "photos": ["https://picsum.photos/seed/r4/400/300"],
+      "location": { "address1": "22 Sakura St", "city": "Queens" },
+      "review_count": 31
+    },
+    {
+      "id": "5",
+      "name": "Pasta Street Kitchen",
+      "rating": 3.9,
+      "price": "$$",
+      "isOpen": false,
+      "categories": [{ "title": "Italian" }],
+      "photos": ["https://picsum.photos/seed/r5/400/300"],
+      "location": { "address1": "314 Olive Ave", "city": "Manhattan" },
+      "review_count": 19
+    },
+    {
+      "id": "6",
+      "name": "Spice Route Express",
+      "rating": 4.4,
+      "price": "$$",
+      "isOpen": true,
+      "categories": [{ "title": "Indian" }],
+      "photos": ["https://picsum.photos/seed/r6/400/300"],
+      "location": { "address1": "9 Market Lane", "city": "Jersey City" },
+      "review_count": 22
+    },
+    {
+      "id": "7",
+      "name": "Ocean Catch Bistro",
+      "rating": 3.6,
+      "price": "$$$",
+      "isOpen": false,
+      "categories": [{ "title": "Seafood" }],
+      "photos": ["https://picsum.photos/seed/r7/400/300"],
+      "location": { "address1": "501 Harbor Dr", "city": "Staten Island" },
+      "review_count": 11
+    },
+    {
+      "id": "8",
+      "name": "Green Garden Cafe",
+      "rating": 4.1,
+      "price": "$",
+      "isOpen": true,
+      "categories": [{ "title": "Vegetarian" }],
+      "photos": ["https://picsum.photos/seed/r8/400/300"],
+      "location": { "address1": "160 Park Blvd", "city": "Hoboken" },
+      "review_count": 17
     }
   ],
   "reviews": [
