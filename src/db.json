@@ -1,0 +1,36 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Very Long Name Restaurants Number 1 In List",
+      "rating": 3.5,
+      "price": "$$",
+      "isOpen": true,
+      "categories": [{ "title": "Mexican" }],
+      "photos": ["https://picsum.photos/seed/r1/400/300"],
+      "location": { "address1": "123 Main St", "city": "New York" },
+      "review_count": 8
+    },
+    {
+      "id": "2",
+      "name": "Restaurants 2",
+      "rating": 2.5,
+      "price": "$$$",
+      "isOpen": false,
+      "categories": [{ "title": "Seafood" }],
+      "photos": ["https://picsum.photos/seed/r2/400/300"],
+      "location": { "address1": "456 Oak Ave", "city": "New York" },
+      "review_count": 8
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "restaurantId": "1",
+      "name": "John Doe",
+      "rating": 4,
+      "text": "Great food and service!",
+      "image": "https://picsum.photos/seed/u1/100/100"
+    }
+  ]
+}
